@@ -5,8 +5,8 @@ import web from "../assets/img/youtube.svg";
 function Common(props) {
   return (
     <>
-      <section id="header" className="d-flex justify-content-evenly">
-        <div className="container-fluid nav-bg">
+      <section id="header" className="d-flex justify-content-evenly" style={{paddingBottom: "800px"}}>
+        <div className="container-fluid common-container">
           <div className="row">
             <div className="col-10 max-auto">
               <div className="row">

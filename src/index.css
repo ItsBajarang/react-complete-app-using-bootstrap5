@@ -138,3 +138,10 @@ footer {
   background-color: #efefef;
   text-align: center;
 }
+
+.common-container {
+  position: relative;
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 500px;
+}
